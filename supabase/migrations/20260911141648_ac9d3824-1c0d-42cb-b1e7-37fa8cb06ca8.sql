@@ -1,0 +1,1 @@
+ALTER FUNCTION public.current_user_permissions() SECURITY INVOKER;
